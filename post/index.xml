@@ -8,11 +8,20 @@
         <language>zh-cn</language>
         <copyright>keepulser</copyright>
         <lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://coquetish.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Python算法竞赛模板</title>
-        <link>https://coquetish.github.io/p/test-chinese/</link>
+        <title>githubpages&#43;ssh&#43;hugo做个人博客</title>
+        <link>https://coquetish.github.io/p/hugo/</link>
         <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://coquetish.github.io/p/test-chinese/</guid>
+        <guid>https://coquetish.github.io/p/hugo/</guid>
+        <description>&lt;p&gt;大苏打实打实的撒大大大大苏打&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Python算法竞赛模板</title>
+        <link>https://coquetish.github.io/p/%E7%AE%97%E6%B3%95/</link>
+        <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://coquetish.github.io/p/%E7%AE%97%E6%B3%95/</guid>
         <description>&lt;h2 id=&#34;基础算法&#34;&gt;基础算法
 &lt;/h2&gt;&lt;h2 id=&#34;图论&#34;&gt;图论
 &lt;/h2&gt;</description>
