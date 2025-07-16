@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>keepulser</title>
-        <link>https://coquetish.github.io/</link>
+        <link>https://keepulser.top/</link>
         <description>Recent content on keepulser</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>keepulser</copyright>
-        <lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://coquetish.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://keepulser.top/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>githubpages&#43;ssh&#43;hugo做个人博客</title>
-        <link>https://coquetish.github.io/p/hugo/</link>
+        <link>https://keepulser.top/p/hugo/</link>
         <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://coquetish.github.io/p/hugo/</guid>
+        <guid>https://keepulser.top/p/hugo/</guid>
         <description>&lt;p&gt;大苏打实打实的撒大大大大苏打&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Python算法竞赛模板</title>
-        <link>https://coquetish.github.io/p/%E7%AE%97%E6%B3%95/</link>
+        <link>https://keepulser.top/p/%E7%AE%97%E6%B3%95/</link>
         <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://coquetish.github.io/p/%E7%AE%97%E6%B3%95/</guid>
+        <guid>https://keepulser.top/p/%E7%AE%97%E6%B3%95/</guid>
         <description>&lt;h2 id=&#34;基础算法&#34;&gt;基础算法
 &lt;/h2&gt;&lt;h2 id=&#34;图论&#34;&gt;图论
 &lt;/h2&gt;</description>
         </item>
         <item>
         <title>Archives</title>
-        <link>https://coquetish.github.io/archives/</link>
+        <link>https://keepulser.top/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://coquetish.github.io/archives/</guid>
+        <guid>https://keepulser.top/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Markdown Syntax Guide</title>
-        <link>https://coquetish.github.io/p/markdown-syntax-guide/</link>
+        <link>https://keepulser.top/p/markdown-syntax-guide/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://coquetish.github.io/p/markdown-syntax-guide/</guid>
-        <description>&lt;img src="https://coquetish.github.io/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
+        <guid>https://keepulser.top/p/markdown-syntax-guide/</guid>
+        <description>&lt;img src="https://keepulser.top/p/markdown-syntax-guide/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;Headings
 &lt;/h2&gt;&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
 &lt;h1 id=&#34;h1&#34;&gt;H1
@@ -264,11 +264,11 @@
         </item>
         <item>
         <title>Placeholder Text</title>
-        <link>https://coquetish.github.io/p/placeholder-text/</link>
+        <link>https://keepulser.top/p/placeholder-text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://coquetish.github.io/p/placeholder-text/</guid>
-        <description>&lt;img src="https://coquetish.github.io/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
+        <guid>https://keepulser.top/p/placeholder-text/</guid>
+        <description>&lt;img src="https://keepulser.top/p/placeholder-text/matt-le-SJSpo9hQf7s-unsplash.jpg" alt="Featured image of post Placeholder Text" /&gt;&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
 &lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;
@@ -295,10 +295,10 @@
         </item>
         <item>
         <title>Math Typesetting</title>
-        <link>https://coquetish.github.io/p/math-typesetting/</link>
+        <link>https://keepulser.top/p/math-typesetting/</link>
         <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://coquetish.github.io/p/math-typesetting/</guid>
+        <guid>https://keepulser.top/p/math-typesetting/</guid>
         <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
 &lt;p&gt;In this example we will be using &lt;a class=&#34;link&#34; href=&#34;https://katex.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;KaTeX&lt;/a&gt;&lt;/p&gt;
@@ -337,11 +337,11 @@ $$</description>
         </item>
         <item>
         <title>Emoji Support</title>
-        <link>https://coquetish.github.io/p/emoji-support/</link>
+        <link>https://keepulser.top/p/emoji-support/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://coquetish.github.io/p/emoji-support/</guid>
-        <description>&lt;img src="https://coquetish.github.io/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
+        <guid>https://keepulser.top/p/emoji-support/</guid>
+        <description>&lt;img src="https://keepulser.top/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
 &lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
@@ -368,10 +368,10 @@ $$</description>
         </item>
         <item>
         <title>Links</title>
-        <link>https://coquetish.github.io/links/</link>
+        <link>https://keepulser.top/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://coquetish.github.io/links/</guid>
+        <guid>https://keepulser.top/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -403,18 +403,18 @@ $$</description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://coquetish.github.io/search/</link>
+        <link>https://keepulser.top/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://coquetish.github.io/search/</guid>
+        <guid>https://keepulser.top/search/</guid>
         <description></description>
         </item>
         <item>
         <title>关于</title>
-        <link>https://coquetish.github.io/%E5%85%B3%E4%BA%8E/</link>
+        <link>https://keepulser.top/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://coquetish.github.io/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https://keepulser.top/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
 </description>
         </item>

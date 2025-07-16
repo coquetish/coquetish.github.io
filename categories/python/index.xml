@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Python on keepulser</title>
-        <link>https://coquetish.github.io/categories/python/</link>
+        <link>https://keepulser.top/categories/python/</link>
         <description>Recent content in Python on keepulser</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>keepulser</copyright>
-        <lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://coquetish.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://keepulser.top/categories/python/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Python算法竞赛模板</title>
-        <link>https://coquetish.github.io/p/%E7%AE%97%E6%B3%95/</link>
+        <link>https://keepulser.top/p/%E7%AE%97%E6%B3%95/</link>
         <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://coquetish.github.io/p/%E7%AE%97%E6%B3%95/</guid>
+        <guid>https://keepulser.top/p/%E7%AE%97%E6%B3%95/</guid>
         <description>&lt;h2 id=&#34;基础算法&#34;&gt;基础算法
 &lt;/h2&gt;&lt;h2 id=&#34;图论&#34;&gt;图论
 &lt;/h2&gt;</description>
