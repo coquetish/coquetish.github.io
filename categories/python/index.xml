@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Python on keepulser</title>
+        <link>https://coquetish.github.io/categories/python/</link>
+        <description>Recent content in Python on keepulser</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>keepulser</copyright>
+        <lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://coquetish.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Python</title>
+        <link>https://coquetish.github.io/p/test-chinese/</link>
+        <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://coquetish.github.io/p/test-chinese/</guid>
+        <description>&lt;h1 id=&#34;python算法竞赛模板&#34;&gt;Python算法竞赛模板
+&lt;/h1&gt;&lt;h2 id=&#34;基础算法&#34;&gt;基础算法
+&lt;/h2&gt;&lt;h2 id=&#34;图论&#34;&gt;图论
+&lt;/h2&gt;&lt;p&gt;大苏打实打实&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

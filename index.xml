@@ -7,7 +7,19 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>keepulser</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://coquetish.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://coquetish.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Python</title>
+        <link>https://coquetish.github.io/p/test-chinese/</link>
+        <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://coquetish.github.io/p/test-chinese/</guid>
+        <description>&lt;h1 id=&#34;python算法竞赛模板&#34;&gt;Python算法竞赛模板
+&lt;/h1&gt;&lt;h2 id=&#34;基础算法&#34;&gt;基础算法
+&lt;/h2&gt;&lt;h2 id=&#34;图论&#34;&gt;图论
+&lt;/h2&gt;&lt;p&gt;大苏打实打实&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Chinese Test</title>
         <link>https://coquetish.github.io/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
@@ -434,17 +446,6 @@ $$</description>
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
-        </item>
-        <item>
-        <title></title>
-        <link>https://coquetish.github.io/p/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://coquetish.github.io/p/</guid>
-        <description>&lt;h1 id=&#34;python算法竞赛模板&#34;&gt;Python算法竞赛模板
-&lt;/h1&gt;&lt;h2 id=&#34;基础算法&#34;&gt;基础算法
-&lt;/h2&gt;&lt;h2 id=&#34;图论&#34;&gt;图论
-&lt;/h2&gt;</description>
         </item>
         <item>
         <title>Links</title>
