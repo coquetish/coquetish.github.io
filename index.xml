@@ -7,7 +7,16 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>keepulser</copyright>
-        <lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://keepulser.top/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://keepulser.top/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>新的尝试</title>
+        <link>https://keepulser.top/p/%E6%8A%96%E9%9F%B3/</link>
+        <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://keepulser.top/p/%E6%8A%96%E9%9F%B3/</guid>
+        <description>&lt;p&gt;在2025-08-09开始尝试发布自家狗子的日常，狗子13岁了，希望能每天都记录一些。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>githubpages&#43;ssh&#43;hugo做个人博客</title>
         <link>https://keepulser.top/p/hugo/</link>
         <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
